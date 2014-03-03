@@ -1,7 +1,7 @@
-paktc
+paktc (Press any key to continue...)
 =====
 
-Press Any Key To Continue...
+Prints 'Press any key to continue..' when in debug mode and waits for input before closing.
 
 # example
 
