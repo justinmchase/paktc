@@ -1,0 +1,10 @@
+{
+  "name": "paktc",
+  "version": "0.0.1",
+  "description": "paktc",
+  "main": "app.js",
+  "author": {
+    "name": "justin chase",
+    "email": "justin.m.chase@outlook.com"
+  }
+}
