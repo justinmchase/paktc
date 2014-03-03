@@ -1,10 +1,20 @@
 {
   "name": "paktc",
-  "version": "0.0.1",
-  "description": "paktc",
+  "version": "1.0.0",
+  "description": "Prints 'Press any key to continue..' when in debug mode and waits for input before closing.",
   "main": "app.js",
   "author": {
-    "name": "justin chase",
+    "name": "Justin Chase",
     "email": "justin.m.chase@outlook.com"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinmchase/paktc.git"
+  },
+  "keywords": [
+    "util",
+    "client",
+    "any-key"
+  ],
+  "license": "MIT"
 }
