@@ -3,7 +3,7 @@ paktc (Press any key to continue...)
 
 Prints 'Press any key to continue..' when in debug mode and waits for input before closing.
 
-# example
+## example
 
 ``` js
 // your console application code here...
@@ -11,7 +11,7 @@ Prints 'Press any key to continue..' when in debug mode and waits for input befo
 require('paktc') // Press any key to continue...
 ```
 
-# install
+## install
 
 With [npm] (http://npmjs.org) do:
 
