@@ -2,7 +2,7 @@
   "name": "paktc",
   "version": "1.0.0",
   "description": "Prints 'Press any key to continue..' when in debug mode and waits for input before closing.",
-  "main": "app.js",
+  "main": "paktc.js",
   "author": {
     "name": "Justin Chase",
     "email": "justin.m.chase@outlook.com"
