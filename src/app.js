@@ -1,4 +1,4 @@
-if(v8debug) {
+if(typeof v8debug === 'object') {
     var readline = require('readline');
 
     var rl = readline.createInterface({
