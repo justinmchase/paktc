@@ -16,5 +16,8 @@
     "client",
     "any-key"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "scripts":{
+    "install": "sh ./init"
+  }
 }
